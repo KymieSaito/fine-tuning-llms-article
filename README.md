@@ -1,5 +1,5 @@
 # Fine-Tuning de Modelos de Linguagem: Principais Pacotes e Metodologia
-
+##Kymie Karina Silva Saito
 ## Introdução
 
 Modelos de Linguagem de Grande Escala (LLMs), como GPT, LLaMA e BERT, transformaram o processamento de linguagem natural (NLP), oferecendo desempenho excepcional em tarefas como geração de texto, classificação e tradução [Brown et al., 2020]. No entanto, para adaptar esses modelos a tarefas específicas ou alinhá-los a objetivos particulares, é necessário realizar o **fine-tuning** (ajuste fino). O *fine-tuning* consiste em treinar um modelo pré-treinado em um conjunto de dados específico, ajustando seus pesos para otimizar o desempenho na tarefa-alvo [Radford et al., 2018].
